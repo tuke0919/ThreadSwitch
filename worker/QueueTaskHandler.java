@@ -11,11 +11,6 @@ import android.os.Message;
  * 功能 :处理子线程队列任务
  * <p/>
  * <p>
- * <p>Copyright baidu.com 2018 All right reserved</p>
- *
- * @author tuke 时间 2018/7/20
- * @email tuke@baidu.com
- * <p>
  * 最后修改人 无
  */
 public class QueueTaskHandler {
