@@ -10,11 +10,6 @@ import android.util.Log;
  * 功能 :处理主线程任务
  * <p/>
  * <p>
- * <p>Copyright baidu.com 2018 All right reserved</p>
- *
- * @author tuke 时间 2018/7/20
- * @email tuke@baidu.com
- * <p>
  * 最后修改人 无
  */
 public class MainTaskHandler extends Handler {
